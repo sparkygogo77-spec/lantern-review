@@ -1,0 +1,4 @@
+node_modules/
+.vercel/
+*.part.mp4
+STOP
